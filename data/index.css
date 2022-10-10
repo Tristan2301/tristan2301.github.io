@@ -1,0 +1,11 @@
+body {
+    height: 100vh;
+    margin: 2;
+    overflow-y: hidden;
+    position: fixed;
+}
+
+
+
+/* Ganze Seite/Hintergrund */
+html {background-color: rgb(255, 255, 255)}
